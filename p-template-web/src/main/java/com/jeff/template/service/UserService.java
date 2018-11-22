@@ -1,6 +1,5 @@
 package com.jeff.template.service;
 
-import com.jeff.template.api.IUserService;
 import com.jeff.template.mapper.base.UserMapper;
 import com.jeff.template.model.base.User;
 import com.jeff.template.model.base.UserExample;
